@@ -1,0 +1,8 @@
+Integrate Replit authentication and student login functionality
+
+Integrates Replit's OAuth for authentication and adds a separate student login route with rate limiting and passwordless authentication. Updates database schema and storage for new user fields and session management. Refactors client-side routing and login components.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: d26d24ae-9b59-429e-a509-959ee6193bed
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/a9057a06-bbee-45ac-a478-3f3e2487b976/d26d24ae-9b59-429e-a509-959ee6193bed/XZJxLcM
